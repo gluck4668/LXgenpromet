@@ -1,0 +1,12 @@
+Package: LXgepromet
+Type: Package
+Title: LXgenpromet
+Version: 2023.01
+Author: Dr.Lin
+Maintainer: Dr.Lin <gluck4668@sina.com>
+Description: MLXgenpromet can be used to analyze the joint pathways between genes-metabolites and proteins-metabolites.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
